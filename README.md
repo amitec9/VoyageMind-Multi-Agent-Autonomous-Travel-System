@@ -1,7 +1,7 @@
 # ✈️ VoyageMind: Multi-Agent Autonomous Travel System (V4)
 > An intelligent, multi-agent travel orchestration framework powered by LLMs, Supervisor Agents, and Real-time APIs.
 
-![Architecture Diagram](Screenshot 2026-07-24 144728.png)
+![Architecture Diagram](flow.png)
 
 # Build a Multi-Agent Travel Planning System using LangGraph + MCP | Supervisor Agent + Guardrails + Human-in-the-Loop
 
